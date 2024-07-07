@@ -1,7 +1,7 @@
 {
     "name": "OpenEMS",
     "summary": "Everything related to OpenEMS (Open Energy Management System)",
-    "version": "16.0.1.0.1",
+    "version": "17.0.1.0.2",
     "author": "OpenEMS Association e.V.",
     "maintainer": "OpenEMS Association e.V.",
     "contributors": [
